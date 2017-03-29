@@ -1,0 +1,54 @@
+nav {
+	font-weight: bolder;
+	text-align: left;
+	background-color: darkgrey;
+	text-align: left;
+}
+
+body {
+	background-color: skyblue;
+}
+
+.header {
+	background-color: steelblue;
+	width: auto;
+	height: auto;
+	text-align: center;
+}
+
+.footer {
+	background-color: steelblue;
+	width: auto;
+	height: auto;
+	text-align: center;
+}
+
+.coachellaimg {
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.musicimg {
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.outsidelandsimg {
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.shakykneesimg {
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.governorsballimg {
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.p {
+	text-align: center;
+	padding: 20px;
+}
